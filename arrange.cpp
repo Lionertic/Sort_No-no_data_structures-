@@ -70,6 +70,7 @@ void arrange (int no)
 int main ()
 {
   int i, temp, r, q;
+` cout<<"Enter the number to sort(int size)"<<endl;
   cin >> i;
   temp = i;
   while (temp !=0 ){
@@ -77,6 +78,6 @@ int main ()
       temp /= 10;
       arrange (r);
   }
-  cout <<final;
+  cout <<"Sorted No is"<<final;
   return 0;
 }
