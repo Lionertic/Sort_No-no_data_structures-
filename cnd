@@ -1,0 +1,25 @@
+ROUND1
+	easy -100
+		1	print odd numbers on one side, even numbers on one side
+		2       leap year
+	medium -200
+		1	operations(+,-,*) on complex numbers
+		2	SAM , TCP , UES , ...  
+	hard -300
+		1	number string eval
+		2	1 2 3 12 11 10
+			4 5 9 8
+			6 7
+
+ROUND2 
+
+1
+2
+3
+4
+5
+
+ROUND3
+
+1 sort the numbers without using data structures
+2 1 to 9 find all the combinations resulting to the sum of 100 - any operation
